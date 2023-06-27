@@ -17,7 +17,7 @@ function HeroSect() {
                             <p className='flex items-center gap-1 text-xs lg:text-xl capitalize'><span className='bg-text w-2 h-2 rounded-full'></span>problem solver</p>
                         </div>
                         <div className='flex items-center space-x-4'>
-                            <a href="http://malito:favourto91@gmail.com" className='bg-text rounded-full text-main px-2 py-1 sm:px-3 sm:py-2 lg:px-4 lg:py-2 hover:bg-gray-300 duration-200 ease-linear'>Send an Email</a>
+                            <a href="malito:favourto91@gmail.com" className='bg-text rounded-full text-main px-2 py-1 sm:px-3 sm:py-2 lg:px-4 lg:py-2 hover:bg-gray-300 duration-200 ease-linear'>Send an Email</a>
                             <a href="#Contact" className='border-2 border-text px-2 py-1 sm:px-3 sm:py-2 lg:px-4 lg:py-2 rounded-full hover:bg-text hover:text-main duration-200 ease-linear'>Contact me</a>
                         </div>
                     </div>
