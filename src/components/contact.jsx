@@ -10,7 +10,7 @@ function Contact() {
                     <div className="flex items-center w-3/4 md:w-full justify-center text-xs sm:text-xm md:text-base space-x-2 md:space-x-4">
                         <a href='malito:favourto91@gmail.com' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillMail/>favourto91@gmail.com</a>
                         <a href='tel:+2347010752695' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillPhone/>+2347010752695</a>
-                        <a href='www.linkedin.com/in/favour-odili-8b5439233' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillLinkedin/>Linkedin</a>
+                        <a href='https://www.linkedin.com/in/favour-odili-8b5439233/' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillLinkedin/>Linkedin</a>
                     </div>
                     <div className="flex items-center justify-center w-3/4 md:w-full text-xs sm:text-xm md:text-base space-x-2 md:space-x-4">
                         <a href='https://twitter.com/Favytech10' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiOutlineTwitter/>Twitter</a>
