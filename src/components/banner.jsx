@@ -7,7 +7,7 @@ function Banner() {
                     pauseOnHover={true}
                     speed={100}
                 >
-                    <div className="uppercase md:text-xl text-text flex space-x-16">
+                    <div className="uppercase ml-16 md:ml-0 md:text-xl text-text flex space-x-16">
                         <p>Web Design</p>
                         <p>Development</p>
                         <p>Brand Developement</p>
