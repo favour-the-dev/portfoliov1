@@ -1,5 +1,5 @@
 import {AiOutlineMenu, AiOutlineClose} from 'react-icons/ai';
-import { useState, useEffect } from 'react';
+import { useState, useEffect} from 'react';
 function Navbar() {
     const [open, setOpen]= useState(false);
     const[fixed, setfixed] = useState('relative');
@@ -18,10 +18,9 @@ function Navbar() {
             setfixed('relative')
         }
     }
-
     return (  
         <>
-            <header className={`w-screen p-5 lg:px-20 lg:py-5 text-text duration-150 md:duration-0 ease-linear ${fixed}`}>
+            <header className={`w-screen p-5 lg:px-20 lg:py-5 text-text duration-150 md:duration-0 ease-linear ${fixed}`} id='header'>
                 <div className='flex items-center justify-between w-full '>
                     <div className='flex items-center justify-between w-full md:w-fit'>
                         <div className='font-bold text-3xl z-50'>FO.</div>

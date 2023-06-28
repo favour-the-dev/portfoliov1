@@ -8,7 +8,7 @@ function Contact() {
                     <h3 className="text-center uppercase text-2xl md:text-3xl font-bold opacity-80">Want to get in touch?</h3>
                     <p className="text-center text-xs sm:text-sm md:text-base md:w-[70%] lg:w-[50%]">I am driven towards the success and near perfection of any project I start and I am looking forward to collaborating on any project, just get in touch through the following platforms below.</p>
                     <div className="flex items-center w-3/4 md:w-full justify-center text-xs sm:text-xm md:text-base space-x-2 md:space-x-4">
-                        <a href='malito:favourto91@gmail.com' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillMail/>favourto91@gmail.com</a>
+                        <a href='https://malito:favourto91@gmail.com' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillMail/>favourto91@gmail.com</a>
                         <a href='tel:+2347010752695' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillPhone/>+2347010752695</a>
                         <a href='https://www.linkedin.com/in/favour-odili-8b5439233/' target='blank_' className="bg-gray-500 bg-opacity-50 p-2 hover:bg-opacity-30 flex items-center md:gap-2"><AiFillLinkedin/>Linkedin</a>
                     </div>
